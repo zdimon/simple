@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 print 'Hello world!!!'
+print 'Start'
 
 dictionary = { '2': 'text 1', '4': 'text' }
 
